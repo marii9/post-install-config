@@ -22,5 +22,5 @@ This tutorial outlines thePost installation of the open-source help desk ticketi
  -Navigating through different departments and assigning roles.
 
  <p>
-<img src="https://i.imgur.com/zG7V65I" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zG7V651" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
